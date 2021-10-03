@@ -9,6 +9,7 @@ title: "The Capacity to Revolt: Beginning an Inquiry"
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "book"
+toc_sticky: true
 categories: other
 author:
 - Concrete
