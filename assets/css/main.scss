@@ -15,15 +15,15 @@ $type-size-7 : 0.6875em; // ~11px
 $type-size-8 : 0.625em;  // ~10px
 
 /* colors */
-$body-color: #508ff8;
-$background-color: #222831;
+//$body-color: #508ff8;
+//$background-color: #222831;
 $masthead-link-color: #e33b36;
-$link-color: #508ff8;
+//$link-color: #508ff8;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-html {
+/*html {
   font-size: 14px; // change to whatever, original 16
 
   @include breakpoint($medium) {
@@ -37,4 +37,4 @@ html {
   @include breakpoint($x-large) {
     font-size: 18px; // change to whatever, original 22
   }
-}
+}*/
