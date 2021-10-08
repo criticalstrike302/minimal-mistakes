@@ -14,8 +14,11 @@ categories: other
 author:
 - Concrete
 last_modified_at: 03/10/2021
+excerpt: "Examining the roots of freedom."
+classes: 
+    #- wide
 ---
-Examining the roots of freedom.
+
 
 <!-- <ol>
 <li><a href="#1">Camus' Colonial Claims on Freedom</a></li>
@@ -61,7 +64,7 @@ In his 1951 text *L'Homme révolté* (The Rebel), French existentialist philosop
 > We could even assert, with considerable assurance, that the idea of rebellion has no meaning in these particular cases. However, a Greek slave, a serf, a condottiere of the Renaissance, a Parisian bourgeois during the Regency, a Russian intellectual at the beginning of the twentieth century, and a contemporary worker would undoubtedly agree that rebellion is legitimate, even if they differed about the reasons for it. In other words, **the problem of rebellion seems to assume a precise meaning only within the confines of Western thought**. It is possible to be even more explicit by remarking, like Scheler, that the spirit of rebellion finds few means of expression in societies where inequalities are very great (the Hindu caste system) or, again, in those where there is absolute equality (certain primitive societies). The spirit of rebellion can exist only in a society where a theoretical equality conceals great factual inequalities. **The problem of rebellion, therefore, has no meaning except within our own Western society** . . . [Thanks] to the theory of political freedom, there is, in the very heart of our [Western] society, an increasing awareness in man of the idea of man and, thanks to the application of this theory of freedom, a corresponding dissatisfaction . . . In fact, **for the Inca and the pariah the problem never arises, because for them it had been solved by a tradition, even before they had had time to raise it**—the answer being that tradition is sacred.
 
 <center>
-<figure class="image">
+<figure class="align-center">
     <img src="/images/Camus2.png" alt="The Rebel - Camus"/>
 </figure>
 </center>
@@ -81,7 +84,7 @@ Nevertheless, the history of the concepts of freedom and rebellion remains vital
 ## <span style="color:#f05454">Finley on freedom</span><a name="2"></a>
 
 <center>
-<figure class="image">
+<figure class="align-center">
     <img src="/images/Finley.png" alt="MI Finley"/>
 </figure>
 </center>
@@ -123,7 +126,7 @@ In *Was Greek civilisation based on slave labour?* (1959) and *Between slavery a
 - Freedmen: emancipated slaves, although not citizens.
 <!-- https://upload.wikimedia.org/wikipedia/commons/1/19/Map_of_Archaic_Ancient_Greece_%28750-490_BC%29_%28English%29v1.svg -->
 <center>
-<figure class="image">
+<figure class="align-center">
     <img src="/images/ancient_greece_map.png"/>
     <figcaption align  = "center"><i>Map of ancient Greece</i></figcaption>
 </figure>
@@ -146,7 +149,7 @@ In *Between slavery and freedom* (1964), Finley poses the problem of the revolt 
 Similarly, in 464 BCE a great helot revolt broke out in Sparta which was suppressed by the Spartans with the help of Athenian forces. Again, this was a different social strata of people above chattel slaves and more akin to medieval serfs. Their revolt, like that of the debt-bondsmen, was to abolish their particular form of servitude, "though not, significantly, to abolish all forms, and particularly not chattel slavery."
 
 <center>
-<figure class="image">
+<figure class="align-center">
     <img src="https://greekreporter.com/wp-content/uploads/2021/06/Slaves-working-Laurion-mine-credit-wikimedia-public-e1624011439610.jpg" alt="Slaves portrayed working in the Laurion mines. 7th century BC" style="zoom:70%;"/>
     <figcaption align  = "center"><i>Slaves portrayed working in the Laurion mines. 7th century BC</i></figcaption>
 </figure>
@@ -179,7 +182,7 @@ This sense is brought out not only in extreme examples such as Aristotle's attem
 None of the radical critical thinkers of Athens, neither Plato nor the "believers in the brotherhood of man (whether Cynic, Stoic, or early Christian)," opposed slavery as such. Even Diogenes, according to legend, was once seized by pirates and taken to auction where he pointed to a certain Corinthian among the buyers and said "Sell me to him; he needs a master."
 
 <center>
-<figure class="image">   <img src="https://www.worldhistory.org/img/c/p/1200x627/2886.jpg" style="zoom:50%;" alt="Diogenes being a legend as always">   <figcaption align  = "center"><i>Diogenes being a legend as always</i></figcaption> </figure>
+<figure class="align-center">   <img src="https://www.worldhistory.org/img/c/p/1200x627/2886.jpg" style="zoom:50%;" alt="Diogenes being a legend as always">   <figcaption align  = "center"><i>Diogenes being a legend as always</i></figcaption> </figure>
 </center>
 
 
@@ -208,7 +211,7 @@ Of course, revolt is no easy task--"a large-scale rebellion is impossible to org
 > Beat and cuff your slave, keep him hungry and spiritless, and he will follow the chain of his master like a dog; but feed and clothe him with physical comfort, and dreams of freedom intrude. Give him a ***bad*** master, and he aspires to a ***good*** master; give him a good master, and he wishes to become his ***own*** master.
 
 <center>
-<figure class="image">
+<figure class="align-center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Cavalcade_west_frieze_Parthenon_BM.jpg/800px-Cavalcade_west_frieze_Parthenon_BM.jpg" style="zoom:80%;"/>
     <figcaption align  = "center"><i>Parthenon frieze sculptures, made between c. 443 and 437 BCE. Finley mentions the technical and aesthetic excellence of the work performed by slaves as an aspect of the "complexity and ambiguity of the institution."</i></figcaption>
 </figure>
@@ -252,7 +255,7 @@ Nevertheless, Finley's broad argument is one that makes intuitive sense: individ
 > **[Finley's] argument ran as follows: first, freedom emerged as a result of a peculiar configuration of historical circumstances in the late seventh and early sixth centuries B.C.; this then stimulated the unprecedented rise of large-scale slavery**; and this, in turn, became the socioeconomic foundation or "basis" for the civilization in which classical democracy flourished. Thus, while large-scale slavery was a structural precondition for classical freedom, it was the latter that historically triggered the former. **He explicitly rejected the thesis that is central to [my] work, and to that of Pohlenz and Raaflaub: that the very idea and valuation of freedom was generated by the existence and growth of slavery.** 
 
 <center>
-<figure class="image">
+<figure class="align-center">
     <img src="/images/OrlandoPatterson.png" alt="Orlando Patterson"/>
 </figure>
 </center>
@@ -299,7 +302,7 @@ As we will see in <u>the next post</u>, this attitude is quite prevalent in hist
 ## <span style="color:#f05454">Freedom today</span><a name="4"></a>
 
 <center>
-<figure class="image">
+<figure class="align-center">
     <img src="/images/Assata.png" alt="Assata Shakur"/>
     <figcaption align  = "center"><i>Art from the zine "Assata's Testimony 1973"</i></figcaption>
 </figure>

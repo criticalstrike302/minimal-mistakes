@@ -5,16 +5,21 @@ categories: other
 author:
 - Posadist
 tags: Sartre, Marcuse, Freire, critical-theory
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "book"
+toc_sticky: true
+excerpt: "Theorizing the tools for a radical project."
 ---
 
-# Table of contents
+<!-- # Table of contents
 
 1. [Sartre's notion of the project](#first)
 2. [The blog as a radical tool](#second)
 3. [Freire's problem-posing pedagogy as a model for the dialogic blog](#third)
 4. [Marcuse's contemplative culture-hero as a symbol of radical reflection](#fourth)
 5. [Open questions](#fifth)
-6. [Bibliography](#sixth)
+6. [Bibliography](#sixth) -->
 
 ### <span style="color:#f05454">Sartre's notion of the project </span><a name="first"></a>
 

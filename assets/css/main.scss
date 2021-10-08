@@ -16,12 +16,65 @@ $type-size-8 : 0.625em;  // ~10px
 
 /* colors */
 //$body-color: #508ff8;
-//$background-color: #222831;
-$masthead-link-color: #e33b36;
+$background-color: #222831;
+$masthead-link-color: #f05454;
+$primary-color: #f05454; // this controls the search button, toc and block quote line colors.
 //$link-color: #508ff8;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// general fontsize and color
+html {
+    font-size: 1.1em;    
+}
+
+// SCSS overrides
+
+// image centering
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
+
+// top bar
+.masthead {
+    border-bottom: 2px solid grey;
+    font-size: 1.25em;
+}
+ 
+// general fontsize and color
+html {
+    font-size: 1.1em;    
+}
+
+// # refers to id element, e.g., <div id="main">
+// . refers to class element
+// this changes the blog list link colors to be less ugly
+.archive__item{
+    /* unvisited link */
+    a:link {
+        color: #f05454;
+    }
+    /* visited link */
+    a:visited {
+        color: #da9ff9;
+    }
+    /* mouse over link */
+    a:hover {
+        color: rgb(199, 54, 54);
+    }  
+    /* selected link */
+    a:active {
+        color: rgb(158, 58, 58);
+    }
+}
+
+a.site-title:hover{
+    color: rgb(199, 54, 54);
+}
+
+
 
 /*html {
   font-size: 14px; // change to whatever, original 16
